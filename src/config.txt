@@ -1,0 +1,12 @@
+{
+   "company_name":"AYZ Solutions",
+   "address":"22, ABC Road",
+   "city":"Ottawa",
+   "zip_code":"K1V555",
+   "phone":"613-222-2099",
+   "email":"info@ayzsolutions.com",
+   "bank_name":"ANC Bank",
+   "bank_account":"5467864546",
+   "bank_code":"ANC",
+   "owner":"Kanwar Roop Singh"
+}
